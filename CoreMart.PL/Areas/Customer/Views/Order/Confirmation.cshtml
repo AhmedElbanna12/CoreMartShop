@@ -1,0 +1,9 @@
+﻿@model CoreMart.DAL.Models.OrderHeader
+
+@{
+    ViewData["Title"] = "تأكيد الطلب";
+}
+
+<h2>@ViewData["Title"]</h2>
+<p>شكرًا لك! تم تأكيد طلبك رقم @Model.Id.</p>
+<p>إجمالي الطلب: @Model.TotalAmount.ToString("C")</p>

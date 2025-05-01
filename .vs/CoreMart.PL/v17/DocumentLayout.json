@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T22:10:44.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T22:10:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T22:10:17.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAY2ZmZmYEwAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T21:23:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T21:22:18.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_CustomerLayout.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T21:14:58.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

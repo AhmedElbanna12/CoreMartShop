@@ -1,0 +1,61 @@
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.deps.json
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.dll
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.pdb
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.dll
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.pdb
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.AssemblyReference.cache
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfoInputs.cache
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfo.cs
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.CoreCompileInputs.cache
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.1A338082.Up2Date
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.dll
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\refint\CoreMart.BLL.dll
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.pdb
+E:\الخلاصه\.Net Depi\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\ref\CoreMart.BLL.dll
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.deps.json
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.dll
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.pdb
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.dll
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.pdb
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.AssemblyReference.cache
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfoInputs.cache
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfo.cs
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.CoreCompileInputs.cache
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.1A338082.Up2Date
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.dll
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\refint\CoreMart.BLL.dll
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.pdb
+E:\projects\mvc\Project01\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\ref\CoreMart.BLL.dll
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.deps.json
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.dll
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.pdb
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.dll
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.pdb
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.AssemblyReference.cache
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfoInputs.cache
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfo.cs
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.CoreCompileInputs.cache
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.1A338082.Up2Date
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.dll
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\refint\CoreMart.BLL.dll
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.pdb
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\ref\CoreMart.BLL.dll
+D:\CoreMart00\CoreMart.PL\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.sourcelink.json
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.deps.json
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.dll
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\bin\Debug\net8.0\CoreMart.BLL.pdb
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.dll
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\bin\Debug\net8.0\CoreMart.DAL.pdb
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.AssemblyReference.cache
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfoInputs.cache
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.AssemblyInfo.cs
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.csproj.CoreCompileInputs.cache
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.1A338082.Up2Date
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.dll
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\refint\CoreMart.BLL.dll
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.pdb
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\ref\CoreMart.BLL.dll
