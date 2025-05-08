@@ -9,7 +9,7 @@ namespace CoreMart.BLL.Repository.Interface
 {
     public interface IBrandRepository
     {
-        IEnumerable<Brand> GetBrands();
+       Task <IEnumerable<Brand>> GetBrands();
         Task<IEnumerable<Brand>> GetAllAsync();
         Task<Brand> GetByIdAsync(int id);
         Task AddAsync(Brand brand);

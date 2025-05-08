@@ -11,8 +11,7 @@ namespace CoreMart.BLL.Repository.Interface
 {
     public interface IOrderDetailsRepository
     {
-        Task<IEnumerable<OrderDetails>> GetOrderDetailsByOrderDetailsId(int orderDetailsId);
-        
+        Task<IEnumerable<OrderDetails>> GetOrderDetailsByOrderId(int orderId);
         Task<OrderDetails> GetByIdAsync(int id);
         Task AddAsync(OrderDetails orderDetails);
         Task UpdateAsync(OrderDetails orderDetails);

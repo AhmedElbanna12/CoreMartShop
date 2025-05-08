@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ApplicationUser>
+
+
+
+@{
+    ViewData["Title"] = "Users Management";
+}
+
+<h2>User Management</h2>
+
+<a  class="btn btn-primary mb-3"  href="/Identity/Account/Register">Create New User</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Email</td>
+            <td>
+
+                @if(item.LockoutEnd == null | item.LockoutEnd < DateTime.Now)
+                {
+                    <a class="btn btn-success" asp-action="LockUnlock" asp-route-id="@item.Id">
+
+                        <i class="fas fa-lock-open"></i>
+
+                    </a>
+                }
+                else
+                {
+                    <a class="btn btn-danger" asp-action="LockUnlock" asp-route-id="@item.Id">
+                        >
+
+                        <i class="fas fa-lock"></i>
+
+                    </a>
+                }
+              
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                 </td>
+                </tr>
+        }
+</table>

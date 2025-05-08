@@ -10,10 +10,7 @@ namespace CoreMart.BLL.Repository.Interface
     public interface IProductRepository
     {
         Task<IEnumerable<Product>> GetAllAsync();
-
-        
-         Task <Product> GetById(int id);
-
+        Task <Product> GetFirstorDefault(int id);
         Task<IEnumerable<Product>> GetByCategoryIdAsync(int categoryId);
         void Add(Product product);
         Task UpdateAsync(Product product);

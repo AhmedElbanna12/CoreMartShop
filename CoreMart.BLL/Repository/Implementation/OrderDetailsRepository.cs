@@ -43,10 +43,10 @@ namespace CoreMart.BLL.Repository.Implementation
             return await _context.OrderDetails.FindAsync(id);
         }
 
-        public async Task<IEnumerable<OrderDetails>> GetOrderDetailsByOrderDetailsId(int orderDetailsId)
+        public async Task<IEnumerable<OrderDetails>> GetOrderDetailsByOrderId(int orderId)
         {
             return await _context.OrderDetails
-                .Where(d => d.OrderId == orderDetailsId)
+                .Where(d => d.OrderId == orderId)
                 .Include(d => d.Product)
                 .ToListAsync();
         }

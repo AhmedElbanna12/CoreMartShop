@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52461CF3-BBE2-4EF7-A95B-C2AF6BAD18ED}|CoreMart.DAL\\CoreMart.DAL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.dal\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52461CF3-BBE2-4EF7-A95B-C2AF6BAD18ED}|CoreMart.DAL\\CoreMart.DAL.csproj|solutionrelative:coremart.dal\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|e:\\projects\\mvc\\finaldepi10\\coremartfinally\\coremart.pl\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76648564-68C9-4735-B63E-CB4096B2E4FC}|CoreMart.PL\\CoreMart.PL.csproj|solutionrelative:coremart.pl\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAQAAAAAY2ZmZmYEwAcAAABBAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAAN8AAAAAcGZmZiYgwOsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T21:23:46.381Z",
+              "WhenOpened": "2025-05-07T17:23:02.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T16:10:42.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAA8AAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAUwMwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T21:22:18.124Z",
+              "WhenOpened": "2025-05-07T16:28:30.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_CustomerLayout.cshtml",
-              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
-              "RelativeDocumentMoniker": "CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
-              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
-              "RelativeToolTip": "CoreMart.PL\\Views\\Shared\\_CustomerLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABsAAAAAMjMzMzMpwFYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:26:47.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.DAL\\Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "CoreMart.DAL\\Models\\OrderHeader.cs",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.DAL\\Models\\OrderHeader.cs",
+              "RelativeToolTip": "CoreMart.DAL\\Models\\OrderHeader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:27:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AgIAANMAAAAAODMzMzMuwNoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:26:17.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFQAAAAA//////8cwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:52:36.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "CoreMart.PL\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAIgAAAAAAAAAAABgvZMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T21:14:58.453Z",
+              "WhenOpened": "2025-05-07T15:32:36.345Z",
               "EditorCaption": ""
             }
           ]

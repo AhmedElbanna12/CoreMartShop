@@ -59,3 +59,4 @@ E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMa
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\refint\CoreMart.BLL.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.pdb
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\ref\CoreMart.BLL.dll
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.BLL\obj\Debug\net8.0\CoreMart.BLL.sourcelink.json

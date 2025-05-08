@@ -978,7 +978,6 @@ E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Microso
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Mono.TextTemplating.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\NuGet.Common.dll
@@ -1001,14 +1000,11 @@ E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Composition.Runtime.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Composition.TypedParts.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Drawing.Common.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Memory.Data.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Runtime.Caching.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\System.Windows.Extensions.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\af\Humanizer.resources.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\ar\Humanizer.resources.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -1154,7 +1150,6 @@ E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtime
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -1175,10 +1170,7 @@ E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtime
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\CoreMart.BLL.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\CoreMart.DAL.dll
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\CoreMart.BLL.pdb
@@ -1211,3 +1203,5 @@ E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\obj\Debug\net8.0\refint\
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\obj\Debug\net8.0\CoreMart.PL.pdb
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\obj\Debug\net8.0\CoreMart.PL.genruntimeconfig.cache
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\obj\Debug\net8.0\ref\CoreMart.PL.dll
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\obj\Debug\net8.0\CoreMart.PL.sourcelink.json
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.PL\bin\Debug\net8.0\Stripe.net.dll

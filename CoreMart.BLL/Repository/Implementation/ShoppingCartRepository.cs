@@ -47,7 +47,7 @@ namespace CoreMart.BLL.Repository.Implementation
             return query.ToList();
         }
 
-        public ShoppingCart GetFirstorDefault(Expression<Func<ShoppingCart, bool>>? Cariteria = null, string? Includeword = null)
+        public ShoppingCart GetById(Expression<Func<ShoppingCart, bool>>? Cariteria = null, string? Includeword = null)
         {
             IQueryable<ShoppingCart> query = _dbSet;
 
@@ -66,7 +66,7 @@ namespace CoreMart.BLL.Repository.Implementation
                 }
             }
 
-            return query.SingleOrDefault();
+            return query.FirstOrDefault();
         }
 
         public void Remove(ShoppingCart item)
@@ -84,7 +84,7 @@ namespace CoreMart.BLL.Repository.Implementation
         public int DecreaseCount(ShoppingCart shoppingCart, int Count)
         {
             shoppingCart.Count -= Count;
-            return shoppingCart.Count;
+             return shoppingCart.Count;
         }
 
         public int IncreaseCount(ShoppingCart shoppingCart, int Count)

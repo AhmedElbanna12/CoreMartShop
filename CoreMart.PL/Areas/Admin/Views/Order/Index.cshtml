@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Order Management";
+}
+
+<h2>Order Management</h2>
+
+<table id="productTable"  class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>PhoneNumber</th>
+            <th>Email</th>
+            <th>OrderStatus</th>
+            <th>Total</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+</table>
+
+ @section Script {
+    <script src="~/js/Order.js"></script>
+} 
+

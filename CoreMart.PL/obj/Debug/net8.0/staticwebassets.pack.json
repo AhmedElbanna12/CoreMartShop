@@ -5,12 +5,36 @@
       "PackagePath": "staticwebassets\\CoreMart.PL.l7a18tiz5d.bundle.scp.css"
     },
     {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\Customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg",
+      "PackagePath": "staticwebassets\\Images\\Brands\\19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Brands\\2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg"
+    },
+    {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\4bb473fb-5d1e-4de0-b1c1-da7c31585531.jfif",
       "PackagePath": "staticwebassets\\Images\\Brands\\4bb473fb-5d1e-4de0-b1c1-da7c31585531.jfif"
     },
     {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\9a1b3d24-13b0-4aca-b455-d62c262ffe2f.jfif",
       "PackagePath": "staticwebassets\\Images\\Brands\\9a1b3d24-13b0-4aca-b455-d62c262ffe2f.jfif"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg",
+      "PackagePath": "staticwebassets\\Images\\Brands\\b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg"
     },
     {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\f577e9a6-5a49-4e87-8ef2-d13af9411cd3.jfif",
@@ -29,24 +53,84 @@
       "PackagePath": "staticwebassets\\Images\\Categories\\be5a3b7e-ade3-483f-ae82-9e8fe746b9d7.jfif"
     },
     {
-      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif",
-      "PackagePath": "staticwebassets\\Images\\Products\\0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif"
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Categories\\c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg"
     },
     {
-      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif",
-      "PackagePath": "staticwebassets\\Images\\Products\\2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif"
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Categories\\d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg"
     },
     {
-      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\60dea854-3d6a-45a4-b91a-49c953d25648.png",
-      "PackagePath": "staticwebassets\\Images\\Products\\60dea854-3d6a-45a4-b91a-49c953d25648.png"
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\194752af-a349-497a-b9cb-3897cec7d8bf.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\194752af-a349-497a-b9cb-3897cec7d8bf.jpg"
     },
     {
-      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6ae52c66-18f2-4431-b808-86652ef277b3.jpg",
-      "PackagePath": "staticwebassets\\Images\\Products\\6ae52c66-18f2-4431-b808-86652ef277b3.jpg"
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6eee681d-2244-497a-a49b-4efbf6f310ab.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6eee681d-2244-497a-a49b-4efbf6f310ab.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\e3e84180-9aa8-4851-be7c-358029948c81.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e3e84180-9aa8-4851-be7c-358029948c81.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\f6267c26-aa68-433b-a091-9ef17341b973.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\f6267c26-aa68-433b-a091-9ef17341b973.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\sh1.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\sh2.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\sh3.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\sh4.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\t1.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\t2.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\t3.jpg"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\t4.jpg"
     },
     {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\assets\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\css\\Summary.css",
+      "PackagePath": "staticwebassets\\css\\Summary.css"
     },
     {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\css\\adminlte.css",
@@ -195,6 +279,10 @@
     {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\.eslintrc.json",
       "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\Order.js",
+      "PackagePath": "staticwebassets\\js\\Order.js"
     },
     {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\Product.js",
@@ -975,6 +1063,14 @@
     {
       "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\index.html",
+      "PackagePath": "staticwebassets\\shoppingcart\\index.html"
+    },
+    {
+      "Id": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\style.css",
+      "PackagePath": "staticwebassets\\shoppingcart\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreMart.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

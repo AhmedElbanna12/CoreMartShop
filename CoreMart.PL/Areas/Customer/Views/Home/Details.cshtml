@@ -5,8 +5,8 @@
 }
 
 
-<form asp-controller="Cart" asp-action="AddToCart" method="post">
-    
+<form asp-area="Customer" asp-controller="Cart" asp-action="AddToCart" method="post">
+
 
     <section class="product-section scroll-reveal">
         <div class="container ">
@@ -25,7 +25,7 @@
                             <p class="lead">@Model.Description</p>
                             <div class="d-flex">
                                 <input type="number" name="quantity" id="quantity" value="1" min="1" />
-                                <button  class="btn btn-outline-dark flex-shrink-0" type="submit">
+                                <button class="btn btn-outline-dark flex-shrink-0" type="submit">
                                     <i class="bi-cart-fill me-1"></i>
                                     Add to cart
                                 </button>
@@ -36,7 +36,7 @@
             </section>
 
 
-           
+
         </div>
     </section>
 

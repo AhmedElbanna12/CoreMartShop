@@ -11,7 +11,7 @@ namespace CoreMart.BLL.Repository.Interface
     public interface IShppingCartRepository
     {
         IEnumerable<ShoppingCart> GetAll(Expression<Func<ShoppingCart, bool>>? Cariteria = null, string? Includeword = null);
-        ShoppingCart GetFirstorDefault(Expression<Func<ShoppingCart, bool>>? Cariteria = null, string? Includeword = null);
+        ShoppingCart GetById(Expression<Func<ShoppingCart, bool>>? Cariteria = null, string? Includeword = null);
         void Add(ShoppingCart item);
         void Remove(ShoppingCart item);
         void RemoveRange(IEnumerable<ShoppingCart> entities);

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 
 namespace CoreMart.BLL.Repository.Implementation
@@ -58,6 +59,36 @@ namespace CoreMart.BLL.Repository.Implementation
         public void Update(OrderHeader orderHeader)
         {
             _context.OrderHeaders.Update(orderHeader);
+        }
+        public IEnumerable<OrderHeader> GetAll(Expression<Func<OrderHeader, bool>> filter = null,
+                                         Expression<Func<OrderHeader, object>> include = null)
+        {
+            IQueryable<OrderHeader> query = _context.OrderHeaders;
+
+            if (filter != null)
+                query = query.Where(filter);
+
+            if (include != null)
+                query = query.Include(include);
+
+            return query.ToList();
+        }
+
+
+
+        public void UpdateOrderStatus(int id, string orderStatus, string PaymentStatus)
+        {
+            var OrderFromDb = _context.OrderHeaders.FirstOrDefault(o => o.Id == id);
+            if (OrderFromDb != null)
+            {
+                OrderFromDb.OrderStatus = orderStatus;
+                OrderFromDb.PaymentDate=DateTime.Now;   
+                if (PaymentStatus!=null)
+                {
+                    OrderFromDb.paymentStatus = PaymentStatus;
+                }
+                _context.SaveChanges();
+            }
         }
     }
 }

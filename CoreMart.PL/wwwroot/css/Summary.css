@@ -1,0 +1,189 @@
+﻿
+/* Base Styles */
+.checkout-container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Cards Styling */
+.address-card, .summary-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    height: 100%;
+}
+
+.card-header {
+    background: linear-gradient(135deg, #2c3e50, #4a6491);
+    color: white;
+    padding: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .card-header h4 {
+        margin: 0;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+.card-body {
+    padding: 1.5rem;
+}
+
+/* Address Section */
+.address-field {
+    margin-bottom: 1.2rem;
+}
+
+.field-label {
+    display: block;
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 0.3rem;
+    font-size: 0.9rem;
+}
+
+.field-value {
+    font-size: 1rem;
+    color: #333;
+    padding: 0.5rem;
+    background: #f9f9f9;
+    border-radius: 5px;
+    display: inline-block;
+    width: 100%;
+}
+
+.edit-btn {
+    color: white;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.4rem 0.8rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+    .edit-btn:hover {
+        background: rgba(255, 255, 255, 0.3);
+    }
+
+/* Summary Table */
+.summary-table {
+    width: 100%;
+}
+
+.summary-row {
+    display: flex;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid #eee;
+    align-items: center;
+}
+
+    .summary-row.header {
+        font-weight: 600;
+        color: #555;
+        border-bottom: 2px solid #ddd;
+    }
+
+    .summary-row.total {
+        font-weight: 700;
+        font-size: 1.1rem;
+        color: #2c3e50;
+        border-bottom: none;
+        padding-top: 1.2rem;
+    }
+
+.summary-col {
+    flex: 2;
+}
+
+    .summary-col.price {
+        flex: 1;
+        text-align: right;
+    }
+
+/* Buttons */
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 2.5rem;
+}
+
+.btn {
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.back-btn {
+    background: white;
+    color: #2c3e50;
+    border: 2px solid #2c3e50;
+}
+
+    .back-btn:hover {
+        background: #f8f9fa;
+    }
+
+.checkout-btn {
+    background: linear-gradient(135deg, #27ae60, #2ecc71);
+    color: white;
+    border: none;
+}
+
+    .checkout-btn:hover {
+        background: linear-gradient(135deg, #219955, #27ae60);
+        box-shadow: 0 4px 12px rgba(46, 204, 113, 0.3);
+    }
+/* Responsive Adjustments */
+(max-width: 768px) {
+    .action-buttons
+
+{
+    flex-direction: column;
+}
+
+.btn {
+    width: 100%;
+    justify-content: center;
+}
+
+.address-card,
+.summary-card {
+    margin-bottom: 1.5rem;
+}
+
+.card-header h4 {
+    font-size: 1.1rem;
+}
+
+.field-value {
+    font-size: 0.95rem;
+}
+
+.summary-row {
+    padding: 0.6rem 0;
+}
+
+    .summary-row.total {
+        font-size: 1rem;
+    }
+
+
+

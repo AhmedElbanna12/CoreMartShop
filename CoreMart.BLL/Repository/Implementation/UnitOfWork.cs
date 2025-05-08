@@ -13,7 +13,7 @@ namespace CoreMart.BLL.Repository.Implementation
         private readonly CoreMartDbContext _context;
 
         public UnitOfWork(CoreMartDbContext context)
-        //  IShoppingCartRepository shoppingCartRepository)
+        
         {
             _context = context;
             Categories = new CategoryRepository(_context);
@@ -22,6 +22,7 @@ namespace CoreMart.BLL.Repository.Implementation
             ShoppingCart = new ShoppingCartRepository(_context);
             OrderDetails = new OrderDetailsRepository(_context); 
             OrderHeader = new OrderHeaderRepository(_context);
+            ApplicationUser = new ApplicationUserRepository(_context);
         }
 
         public ICategoryRepository Categories { get; private set; }
@@ -31,6 +32,9 @@ namespace CoreMart.BLL.Repository.Implementation
 
         public IOrderHeaderRepository OrderHeader { get; private set; }
         public IOrderDetailsRepository OrderDetails { get; private set; }
+
+        public IApplicationUserRepository ApplicationUser { get; private set; }
+
 
 
 

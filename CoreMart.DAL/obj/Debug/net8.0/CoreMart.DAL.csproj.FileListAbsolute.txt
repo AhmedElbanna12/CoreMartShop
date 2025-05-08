@@ -55,3 +55,4 @@ E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.DAL\obj\Debug\net8.0\refint
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.DAL\obj\Debug\net8.0\CoreMart.DAL.pdb
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.DAL\obj\Debug\net8.0\CoreMart.DAL.genruntimeconfig.cache
 E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.DAL\obj\Debug\net8.0\ref\CoreMart.DAL.dll
+E:\projects\mvc\FinalDepi10\CoreMartFinally\CoreMart.DAL\obj\Debug\net8.0\CoreMart.DAL.sourcelink.json

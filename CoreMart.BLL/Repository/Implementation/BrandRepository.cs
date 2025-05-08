@@ -52,9 +52,9 @@ namespace CoreMart.BLL.Repository.Implementation
             }
         }
 
-        public IEnumerable<Brand> GetBrands()
+        public async Task <IEnumerable<Brand>> GetBrands()
         {
-            return _context.Brands.ToList();
+            return await _context.Brands.ToListAsync();
         }
 
 

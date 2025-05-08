@@ -19,7 +19,6 @@ namespace CoreMart.DAL.Models
         public Product Product { get; set; }
         public int Count { get; set; }
 
-        // ✅ نضيف ده
         public decimal PriceAtThatTime { get; set; }
 
 

@@ -24,7 +24,7 @@ namespace CoreMart.BLL.Repository.Implementation
             return await _context.Products.Include(p => p.Brand).Include(p => p.Category).ToListAsync();
         }
 
-        public async Task<Product> GetById(int id)
+        public async Task<Product> GetFirstorDefault(int id)
         {
             return await _context.Products
                 .Include(p => p.Category)
@@ -58,5 +58,7 @@ namespace CoreMart.BLL.Repository.Implementation
                 _context.Products.Remove(product);
             }
         }
+
+        
     }
 }

@@ -42,9 +42,9 @@ namespace CoreMart.BLL.Repository.Implementation
             await _context.SaveChangesAsync();
         }
 
-        public IEnumerable<Category> GetCategories()
+        public async Task<IEnumerable<Category>> GetCategories()
         {
-            return _context.Categories.ToList();
+            return  await  _context.Categories.ToListAsync();
         }
 
         public async Task DeleteAsync(Category category)

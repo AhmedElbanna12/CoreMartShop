@@ -5,6 +5,9 @@ using CoreMart.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using CoreMart.DAL.Models;
+using CoreMart.PL.Utility;
+using Stripe;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,12 +20,15 @@ builder.Services.AddDbContext<CoreMartDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
+
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
+StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Value;
 // Add Identity services
 
 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>(option =>
 {
-    option.SignIn.RequireConfirmedAccount = false;
+    option.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(2);
 
 })
     .AddEntityFrameworkStores<CoreMartDbContext>()
@@ -45,6 +51,8 @@ builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
 builder.Services.AddScoped<IProductRepository,  ProductRepository>();
 
 
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
 
 
 var app = builder.Build();
@@ -62,8 +70,11 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+//StripeConfiguration.ApiKey= builder.Configuration.GetSection("Stripe : SecretKey").Get<string>();
+
 app.UseAuthentication();
 app.UseAuthorization();
+app.UseSession();
 app.MapRazorPages();
 
 

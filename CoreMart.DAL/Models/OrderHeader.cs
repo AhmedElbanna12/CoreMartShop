@@ -9,18 +9,40 @@ namespace CoreMart.DAL.Models
 {
     public class OrderHeader
     {
-        public int Id { get; set; } // معرف الطلب
+        public int Id { get; set; }  
         [ForeignKey("ApplicationUser")]
-        public string CustomerId { get; set; } // معرف المستخدم
+        public string CustomerId { get; set; } 
 
         public ApplicationUser ApplicationUser { get; set; }
 
-        public DateTime OrderDate { get; set; } // تاريخ الطلب
-        public decimal TotalAmount { get; set; } // المجموع الكلي للطلب
-        public string Status { get; set; } // حالة الطلب (مثال: "Pending", "Completed")
+        public DateTime OrderDate { get; set; } 
+        public decimal TotalAmount { get; set; }
+        public string? OrderStatus { get; set; } 
+
+        public DateTime ShippingDate { get; set; }
+
+        public string? paymentStatus { get; set; }
+
+        public string? TrackingNumber { get; set; }
+
+        public string ? Carrier { get; set; }
+
+        public DateTime PaymentDate { get; set; }
 
 
-        // العلاقة بين الـ OrderHeader والـ OrderDetail (واحد إلى متعدد)
+
+        // Strip Properities 
+        public string? SessionId { get; set; }
+
+        public string ? PaymentIntendId { get; set; }
+
+
+        //Data of User
+
+        public string? FullName { get; set; }
+        public string? Phone { get; set; }
+        public string? Address { get; set; }
+
         public ICollection<OrderDetails> OrderDetails { get; set; }
     }
 

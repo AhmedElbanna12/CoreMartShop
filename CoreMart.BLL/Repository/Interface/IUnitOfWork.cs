@@ -17,6 +17,8 @@ namespace CoreMart.BLL.Repository.Interface
         IOrderHeaderRepository OrderHeader { get; }
         IOrderDetailsRepository OrderDetails { get; }
 
+        IApplicationUserRepository ApplicationUser { get; }
+
 
         Task<int> CompleteAsync();
     }

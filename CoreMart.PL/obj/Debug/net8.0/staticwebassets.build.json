@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bB5Kxag1Ikb+hMcJ6tcgRE+kxTOSGsfLnyOrvkJ3RMM=",
+  "Hash": "pd8wnPDqZjaS5M6Cjg9Dg8tVV6wUkM7qxKhxAetCcbk=",
   "Source": "CoreMart.PL",
   "BasePath": "_content/CoreMart.PL",
   "Mode": "Default",
@@ -2075,6 +2075,90 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\css\\Summary.css",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "css/Summary#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6wscmbbkd8",
+      "Integrity": "Rq8RbvNmeVJPd8ubpb2Eu6D5b2W7ZAFXSLvlN1tVtOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Summary.css"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\assets\\favicon.ico",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Customer/assets/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devepoo3hg",
+      "Integrity": "ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Customer\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\css\\styles.css",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Customer/css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "050gf1li0j",
+      "Integrity": "TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Customer\\css\\styles.css"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\js\\scripts.js",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Customer/js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7950c2etpe",
+      "Integrity": "ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Customer\\js\\scripts.js"
+    },
+    {
       "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\favicon.ico",
       "SourceId": "CoreMart.PL",
       "SourceType": "Discovered",
@@ -2094,6 +2178,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Brands/19e5ca74-78b4-4d7c-9091-bfac38bd7657#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrrf35bpg8",
+      "Integrity": "UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Brands\\19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Brands/2d315bdf-0623-4381-ae06-cef693a4bc4a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6htmfmvrnp",
+      "Integrity": "unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Brands\\2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg"
     },
     {
       "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\4bb473fb-5d1e-4de0-b1c1-da7c31585531.jfif",
@@ -2136,6 +2262,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Brands\\9a1b3d24-13b0-4aca-b455-d62c262ffe2f.jfif"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Brands/b91488dc-bd71-463b-b4b1-d22e5b318a18#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akxgzxmuso",
+      "Integrity": "6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Brands\\b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg"
     },
     {
       "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\f577e9a6-5a49-4e87-8ef2-d13af9411cd3.jfif",
@@ -2222,12 +2369,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\Categories\\be5a3b7e-ade3-483f-ae82-9e8fe746b9d7.jfif"
     },
     {
-      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif",
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg",
       "SourceId": "CoreMart.PL",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
       "BasePath": "_content/CoreMart.PL",
-      "RelativePath": "Images/Products/0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd#[.{fingerprint}]?.jfif",
+      "RelativePath": "Images/Categories/c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2236,19 +2383,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "woxcpge7pn",
-      "Integrity": "cDEA+67+kCGM4Nt3NZ2okParMcjmOVyDSBkKDUQWcG0=",
+      "Fingerprint": "dil60c6jt1",
+      "Integrity": "m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Products\\0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif"
+      "OriginalItemSpec": "wwwroot\\Images\\Categories\\c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg"
     },
     {
-      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif",
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg",
       "SourceId": "CoreMart.PL",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
       "BasePath": "_content/CoreMart.PL",
-      "RelativePath": "Images/Products/2bb6d2a9-9421-49cc-a09f-36660b99b424#[.{fingerprint}]?.jfif",
+      "RelativePath": "Images/Categories/d8d75a0f-13c8-49b9-8523-27b286a6d2d5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2257,19 +2404,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5wvk93vvg8",
-      "Integrity": "dSNC4KmUnEpmbbmbW6yxpMz/ZmY9nAWKkyOftd+C5iY=",
+      "Fingerprint": "6htmfmvrnp",
+      "Integrity": "unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Products\\2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif"
+      "OriginalItemSpec": "wwwroot\\Images\\Categories\\d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg"
     },
     {
-      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\60dea854-3d6a-45a4-b91a-49c953d25648.png",
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\194752af-a349-497a-b9cb-3897cec7d8bf.jpg",
       "SourceId": "CoreMart.PL",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
       "BasePath": "_content/CoreMart.PL",
-      "RelativePath": "Images/Products/60dea854-3d6a-45a4-b91a-49c953d25648#[.{fingerprint}]?.png",
+      "RelativePath": "Images/Products/194752af-a349-497a-b9cb-3897cec7d8bf#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2278,19 +2425,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nwluxvcstm",
-      "Integrity": "mdh5DH3EnuDq7krwy/LnzvEU9mWpKniA4mFYHhruNgg=",
+      "Fingerprint": "dil60c6jt1",
+      "Integrity": "m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Products\\60dea854-3d6a-45a4-b91a-49c953d25648.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\194752af-a349-497a-b9cb-3897cec7d8bf.jpg"
     },
     {
-      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6ae52c66-18f2-4431-b808-86652ef277b3.jpg",
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg",
       "SourceId": "CoreMart.PL",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
       "BasePath": "_content/CoreMart.PL",
-      "RelativePath": "Images/Products/6ae52c66-18f2-4431-b808-86652ef277b3#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/Products/30748a7f-2ff0-43bf-84f8-0ffb8432f22c#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2299,11 +2446,305 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qy2zj30dtd",
-      "Integrity": "whhK5aPej+JQMWXIQjysxMdxJU95cjp0fqsv+nYq/I8=",
+      "Fingerprint": "lrrf35bpg8",
+      "Integrity": "UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Products\\6ae52c66-18f2-4431-b808-86652ef277b3.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6eee681d-2244-497a-a49b-4efbf6f310ab.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/6eee681d-2244-497a-a49b-4efbf6f310ab#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akxgzxmuso",
+      "Integrity": "6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\6eee681d-2244-497a-a49b-4efbf6f310ab.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/a282a703-9e4e-4834-98db-3f1fba7f7bda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "orvp3nyq86",
+      "Integrity": "7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/c574382f-6d36-4ad5-8e8f-9e710a39843d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfptoyp10c",
+      "Integrity": "CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\e3e84180-9aa8-4851-be7c-358029948c81.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/e3e84180-9aa8-4851-be7c-358029948c81#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwa967p0ri",
+      "Integrity": "lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\e3e84180-9aa8-4851-be7c-358029948c81.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\f6267c26-aa68-433b-a091-9ef17341b973.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/f6267c26-aa68-433b-a091-9ef17341b973#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6htmfmvrnp",
+      "Integrity": "unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\f6267c26-aa68-433b-a091-9ef17341b973.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/ff27aaac-781d-47b7-9387-d7501f4a2e1c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jiaxn0so37",
+      "Integrity": "e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh1.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/sh1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dil60c6jt1",
+      "Integrity": "m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sh1.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh2.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/sh2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwa967p0ri",
+      "Integrity": "lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sh2.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh3.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/sh3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jiaxn0so37",
+      "Integrity": "e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sh3.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh4.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/sh4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrrf35bpg8",
+      "Integrity": "UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\sh4.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t1.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/t1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akxgzxmuso",
+      "Integrity": "6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\t1.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t2.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/t2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6htmfmvrnp",
+      "Integrity": "unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\t2.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t3.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/t3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfptoyp10c",
+      "Integrity": "CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\t3.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t4.jpg",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "Images/Products/t4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "orvp3nyq86",
+      "Integrity": "7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\t4.jpg"
     },
     {
       "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\.eslintrc.json",
@@ -2514,6 +2955,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\Order.js",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "js/Order#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctm7gl3tdo",
+      "Integrity": "QGPG1DW5nGQrgOJXOmDc49yrK0yBqPBSHsxIyB+tO0Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Order.js"
     },
     {
       "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\pages\\dashboard.js",
@@ -6420,6 +6882,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\index.html",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "shoppingcart/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ijky5sym60",
+      "Integrity": "flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\shoppingcart\\index.html"
+    },
+    {
+      "Identity": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\style.css",
+      "SourceId": "CoreMart.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\",
+      "BasePath": "_content/CoreMart.PL",
+      "RelativePath": "shoppingcart/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ux9dym8rks",
+      "Integrity": "btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\shoppingcart\\style.css"
     }
   ],
   "Endpoints": [
@@ -6528,7 +7032,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 01:41:26 GMT"
+          "Value": "Wed, 07 May 2025 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6565,7 +7069,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 01:41:26 GMT"
+          "Value": "Wed, 07 May 2025 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6610,7 +7114,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 01:41:26 GMT"
+          "Value": "Wed, 07 May 2025 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6655,7 +7159,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 01:41:26 GMT"
+          "Value": "Wed, 07 May 2025 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9540,6 +10044,334 @@
       ]
     },
     {
+      "Route": "css/Summary.6wscmbbkd8.css",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\css\\Summary.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rq8RbvNmeVJPd8ubpb2Eu6D5b2W7ZAFXSLvlN1tVtOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 20:00:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6wscmbbkd8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Summary.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rq8RbvNmeVJPd8ubpb2Eu6D5b2W7ZAFXSLvlN1tVtOg="
+        }
+      ]
+    },
+    {
+      "Route": "css/Summary.css",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\css\\Summary.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rq8RbvNmeVJPd8ubpb2Eu6D5b2W7ZAFXSLvlN1tVtOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 20:00:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rq8RbvNmeVJPd8ubpb2Eu6D5b2W7ZAFXSLvlN1tVtOg="
+        }
+      ]
+    },
+    {
+      "Route": "Customer/assets/favicon.devepoo3hg.ico",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 21:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "Customer/assets/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "Customer/assets/favicon.ico",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 21:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "Customer/css/styles.050gf1li0j.css",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 21:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "050gf1li0j"
+        },
+        {
+          "Name": "label",
+          "Value": "Customer/css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "Customer/css/styles.css",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 21:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TLhg5T7bwuGuuPHHrLtxGHT9a1GENI8pcIdRStzaPQ0="
+        }
+      ]
+    },
+    {
+      "Route": "Customer/js/scripts.7950c2etpe.js",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 21:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7950c2etpe"
+        },
+        {
+          "Name": "label",
+          "Value": "Customer/js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE="
+        }
+      ]
+    },
+    {
+      "Route": "Customer/js/scripts.js",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Customer\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 21:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZfEVpnGr+TXr1LfZZrITWxGlhBLv4FhqV6hrt5xhoTE="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -11842,6 +12674,170 @@
       ]
     },
     {
+      "Route": "Images/Brands/19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Brands/19e5ca74-78b4-4d7c-9091-bfac38bd7657.lrrf35bpg8.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:48:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrrf35bpg8"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Brands/19e5ca74-78b4-4d7c-9091-bfac38bd7657.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Brands/2d315bdf-0623-4381-ae06-cef693a4bc4a.6htmfmvrnp.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6htmfmvrnp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Brands/2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Brands/2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\2d315bdf-0623-4381-ae06-cef693a4bc4a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
       "Route": "Images/Brands/4bb473fb-5d1e-4de0-b1c1-da7c31585531.5wvk93vvg8.jfif",
       "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\4bb473fb-5d1e-4de0-b1c1-da7c31585531.jfif",
       "Selectors": [],
@@ -12002,6 +12998,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-04kSmGwSuYIeOipn6g0X+kikfYB14EgmG9CLjAuvqjE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Brands/b91488dc-bd71-463b-b4b1-d22e5b318a18.akxgzxmuso.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akxgzxmuso"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Brands/b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Brands/b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Brands\\b91488dc-bd71-463b-b4b1-d22e5b318a18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ="
         }
       ]
     },
@@ -12334,8 +13412,8 @@
       ]
     },
     {
-      "Route": "Images/Products/0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif",
+      "Route": "Images/Categories/c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.dil60c6jt1.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12344,253 +13422,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43096"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/pjpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cDEA+67+kCGM4Nt3NZ2okParMcjmOVyDSBkKDUQWcG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cDEA+67+kCGM4Nt3NZ2okParMcjmOVyDSBkKDUQWcG0="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Products/0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.woxcpge7pn.jfif",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43096"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/pjpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cDEA+67+kCGM4Nt3NZ2okParMcjmOVyDSBkKDUQWcG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "woxcpge7pn"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Products/0975fdf3-c2e6-4a40-87f8-a7e78c14f2fd.jfif"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cDEA+67+kCGM4Nt3NZ2okParMcjmOVyDSBkKDUQWcG0="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Products/2bb6d2a9-9421-49cc-a09f-36660b99b424.5wvk93vvg8.jfif",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13777"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/pjpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dSNC4KmUnEpmbbmbW6yxpMz/ZmY9nAWKkyOftd+C5iY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5wvk93vvg8"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Products/2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dSNC4KmUnEpmbbmbW6yxpMz/ZmY9nAWKkyOftd+C5iY="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Products/2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\2bb6d2a9-9421-49cc-a09f-36660b99b424.jfif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13777"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/pjpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dSNC4KmUnEpmbbmbW6yxpMz/ZmY9nAWKkyOftd+C5iY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dSNC4KmUnEpmbbmbW6yxpMz/ZmY9nAWKkyOftd+C5iY="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Products/60dea854-3d6a-45a4-b91a-49c953d25648.nwluxvcstm.png",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\60dea854-3d6a-45a4-b91a-49c953d25648.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1239571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mdh5DH3EnuDq7krwy/LnzvEU9mWpKniA4mFYHhruNgg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nwluxvcstm"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Products/60dea854-3d6a-45a4-b91a-49c953d25648.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mdh5DH3EnuDq7krwy/LnzvEU9mWpKniA4mFYHhruNgg="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Products/60dea854-3d6a-45a4-b91a-49c953d25648.png",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\60dea854-3d6a-45a4-b91a-49c953d25648.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1239571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mdh5DH3EnuDq7krwy/LnzvEU9mWpKniA4mFYHhruNgg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mdh5DH3EnuDq7krwy/LnzvEU9mWpKniA4mFYHhruNgg="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Products/6ae52c66-18f2-4431-b808-86652ef277b3.jpg",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6ae52c66-18f2-4431-b808-86652ef277b3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28205"
+          "Value": "9049"
         },
         {
           "Name": "Content-Type",
@@ -12598,48 +13430,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"whhK5aPej+JQMWXIQjysxMdxJU95cjp0fqsv+nYq/I8=\""
+          "Value": "\"m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-whhK5aPej+JQMWXIQjysxMdxJU95cjp0fqsv+nYq/I8="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Products/6ae52c66-18f2-4431-b808-86652ef277b3.qy2zj30dtd.jpg",
-      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6ae52c66-18f2-4431-b808-86652ef277b3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28205"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"whhK5aPej+JQMWXIQjysxMdxJU95cjp0fqsv+nYq/I8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 19:04:46 GMT"
+          "Value": "Wed, 07 May 2025 14:51:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12649,15 +13444,1446 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qy2zj30dtd"
+          "Value": "dil60c6jt1"
         },
         {
           "Name": "label",
-          "Value": "Images/Products/6ae52c66-18f2-4431-b808-86652ef277b3.jpg"
+          "Value": "Images/Categories/c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-whhK5aPej+JQMWXIQjysxMdxJU95cjp0fqsv+nYq/I8="
+          "Value": "sha256-m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Categories/c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\c55c4cbd-a04b-4abd-ab2f-3d5556f90a1c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:51:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Categories/d8d75a0f-13c8-49b9-8523-27b286a6d2d5.6htmfmvrnp.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:51:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6htmfmvrnp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Categories/d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Categories/d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Categories\\d8d75a0f-13c8-49b9-8523-27b286a6d2d5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:51:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/194752af-a349-497a-b9cb-3897cec7d8bf.dil60c6jt1.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\194752af-a349-497a-b9cb-3897cec7d8bf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dil60c6jt1"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/194752af-a349-497a-b9cb-3897cec7d8bf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/194752af-a349-497a-b9cb-3897cec7d8bf.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\194752af-a349-497a-b9cb-3897cec7d8bf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:49:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/30748a7f-2ff0-43bf-84f8-0ffb8432f22c.lrrf35bpg8.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:49:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrrf35bpg8"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/30748a7f-2ff0-43bf-84f8-0ffb8432f22c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/6eee681d-2244-497a-a49b-4efbf6f310ab.akxgzxmuso.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6eee681d-2244-497a-a49b-4efbf6f310ab.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:44:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akxgzxmuso"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/6eee681d-2244-497a-a49b-4efbf6f310ab.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/6eee681d-2244-497a-a49b-4efbf6f310ab.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\6eee681d-2244-497a-a49b-4efbf6f310ab.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:44:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:46:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/a282a703-9e4e-4834-98db-3f1fba7f7bda.orvp3nyq86.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:46:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orvp3nyq86"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/a282a703-9e4e-4834-98db-3f1fba7f7bda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/c574382f-6d36-4ad5-8e8f-9e710a39843d.bfptoyp10c.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfptoyp10c"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\c574382f-6d36-4ad5-8e8f-9e710a39843d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/e3e84180-9aa8-4851-be7c-358029948c81.bwa967p0ri.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\e3e84180-9aa8-4851-be7c-358029948c81.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:49:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwa967p0ri"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/e3e84180-9aa8-4851-be7c-358029948c81.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/e3e84180-9aa8-4851-be7c-358029948c81.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\e3e84180-9aa8-4851-be7c-358029948c81.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:49:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/f6267c26-aa68-433b-a091-9ef17341b973.6htmfmvrnp.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\f6267c26-aa68-433b-a091-9ef17341b973.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:46:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6htmfmvrnp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/f6267c26-aa68-433b-a091-9ef17341b973.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/f6267c26-aa68-433b-a091-9ef17341b973.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\f6267c26-aa68-433b-a091-9ef17341b973.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:46:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/ff27aaac-781d-47b7-9387-d7501f4a2e1c.jiaxn0so37.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jiaxn0so37"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\ff27aaac-781d-47b7-9387-d7501f4a2e1c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh1.dil60c6jt1.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dil60c6jt1"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sh1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh1.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m31BY7yeo/3kic/+vHiU/5Cu6bMPYOD7V4jajH/6OvY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh2.bwa967p0ri.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwa967p0ri"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sh2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh2.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lY65Knl+CE2s6kufKWcwkHbwiyuQZt7lCM6E8zeThBc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh3.jiaxn0so37.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jiaxn0so37"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sh3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh3.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+pfWCpEIXsyvrWpEdfDPy7IPqGttmEw8cE28MjlGsA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh4.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/sh4.lrrf35bpg8.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\sh4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:16:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrrf35bpg8"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/sh4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UUFnmTu8MYg2eWuVConLRDQHUtKBRQ11coCeVS9iHpw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t1.akxgzxmuso.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akxgzxmuso"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/t1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t1.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hQfwdKXus811JkdQ9EnMM55GU7ryPRwqzqsOTpIsJQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t2.6htmfmvrnp.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6htmfmvrnp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/t2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t2.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-unUpjAkpqMojSgUD+tdTuRpEC7k6pXfDdycYVnVEuK0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t3.bfptoyp10c.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfptoyp10c"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/t3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t3.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSqj0VlVxOmGL0j/pxQjONJEqwuDosfN5lw6tFht0Bg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t4.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/t4.orvp3nyq86.jpg",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\Images\\Products\\t4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 14:18:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orvp3nyq86"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/t4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7FMJEMAMYgenDkGqlALZu82GdV/NLwjGHruUOpWGQfI="
         }
       ]
     },
@@ -13478,6 +15704,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jksgB3czHFNjBDI6T2tZzHjPim6HYJ9np8hY/MP+GvU="
+        }
+      ]
+    },
+    {
+      "Route": "js/Order.ctm7gl3tdo.js",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\Order.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QGPG1DW5nGQrgOJXOmDc49yrK0yBqPBSHsxIyB+tO0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:59:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctm7gl3tdo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Order.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QGPG1DW5nGQrgOJXOmDc49yrK0yBqPBSHsxIyB+tO0Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/Order.js",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\js\\Order.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QGPG1DW5nGQrgOJXOmDc49yrK0yBqPBSHsxIyB+tO0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 12:59:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QGPG1DW5nGQrgOJXOmDc49yrK0yBqPBSHsxIyB+tO0Y="
         }
       ]
     },
@@ -28730,6 +31038,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.html",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.ijky5sym60.html",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijky5sym60"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.css",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.ux9dym8rks.css",
+      "AssetFile": "E:\\projects\\mvc\\FinalDepi10\\CoreMartFinally\\CoreMart.PL\\wwwroot\\shoppingcart\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 20:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ux9dym8rks"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM="
         }
       ]
     }

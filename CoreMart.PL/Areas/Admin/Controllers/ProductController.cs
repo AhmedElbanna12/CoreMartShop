@@ -27,17 +27,17 @@ namespace CoreMart.PL.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
-            ViewBag.Categories = new SelectList(unitOfWork.Categories.GetCategories(), "Id", "Name");
-            ViewBag.Brands = new SelectList(unitOfWork.Brands.GetBrands(), "Id", "Name");
+            ViewBag.Categories = new SelectList(await unitOfWork.Categories.GetCategories(), "Id", "Name");
+            ViewBag.Brands = new SelectList(await unitOfWork.Brands.GetBrands(), "Id", "Name");
 
             return View();
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Product product, IFormFile file)
+        public async Task<IActionResult> Create(Product product, IFormFile file)
         {
             if (ModelState.IsValid)
             {
@@ -61,25 +61,26 @@ namespace CoreMart.PL.Areas.Admin.Controllers
                 }
 
                 unitOfWork.Products.Add(product);
-                unitOfWork.CompleteAsync();
+              await unitOfWork.CompleteAsync();
                 return RedirectToAction("Index");
             }
 
-            ViewBag.Categories = new SelectList(unitOfWork.Categories.GetCategories(), "Id", "Name");
-            ViewBag.Brands = new SelectList(unitOfWork.Brands.GetBrands(), "Id", "Name");
+            ViewBag.Categories = new SelectList(await unitOfWork.Categories.GetCategories(), "Id", "Name");
+            ViewBag.Brands = new SelectList(await unitOfWork.Brands.GetBrands(), "Id", "Name");
             return View("Create", product);
         }
 
 
         [HttpGet]
 
-        public IActionResult Edit(int id)
+        public async Task<IActionResult> Edit(int id)
         {
-            var productInDB= unitOfWork.Products.GetById(id);
+            var productInDB = await unitOfWork.Products.GetFirstorDefault(id);
             if(productInDB != null)
             {
-                ViewBag.Categories = new SelectList(unitOfWork.Categories.GetCategories(), "Id", "Name");
-                ViewBag.Brands = new SelectList(unitOfWork.Brands.GetBrands(), "Id", "Name");
+                ViewBag.Categories = new SelectList(await unitOfWork.Categories.GetCategories(), "Id", "Name");
+                ViewBag.Brands = new SelectList(await unitOfWork.Brands.GetBrands(), "Id", "Name");
+
                 return View(productInDB);
             }
             return NotFound();
@@ -131,7 +132,7 @@ namespace CoreMart.PL.Areas.Admin.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
-            var Product =await  unitOfWork.Products.GetById(id);
+            var Product =await  unitOfWork.Products.GetFirstorDefault(id);
             if (Product == null)
             {
                 return NotFound();

@@ -9,7 +9,7 @@ namespace CoreMart.BLL.Repository.Interface
 {
     public interface ICategoryRepository
     {
-        IEnumerable<Category> GetCategories();
+        Task<IEnumerable<Category>> GetCategories();
         Task<IEnumerable<Category>> GetAllAsync();
         Task<Category> GetByIdAsync(int id);
         Task AddAsync(Category category);
