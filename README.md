@@ -4,26 +4,26 @@ This is a full-featured E-commerce web application developed using ASP.NET MVC a
 
 🚀 Features
 
-User registration, login, and profile management
-Product listing by category
-Shopping cart using sessions
-Order checkout with Stripe payment integration
-Order tracking with statuses (Pending, Processing, Shipped)
+1-User registration, login, and profile management
+2-Product listing by category
+3-Shopping cart using sessions
+4-Order checkout with Stripe payment integration
+5-Order tracking with statuses (Pending, Processing, Shipped)
 
 Admin panel:
 
-CRUD for products, categories, Brands and users
-View and update order statuses
-Responsive UI using Bootstrap 5
-Server-side validation and error handling
+1-CRUD for products, categories, Brands and users
+2-View and update order statuses
+3-Responsive UI using Bootstrap 5
+4-Server-side validation and error handling
 
 
 🛠️ Tech Stack
-ASP.NET MVC (.NET 8)
-Entity Framework Core
-SQL Server
-Bootstrap 5
-Stripe API for payments
-Identity for user authentication
-LINQ
+1-ASP.NET MVC (.NET 8)
+2-Entity Framework Core
+3-SQL Server
+4-Bootstrap 5
+5-Stripe API for payments
+6-Identity for user authentication
+7-LINQ
 
