@@ -1,0 +1,10 @@
+bin/
+obj/
+packages/
+node_modules/
+.vs/
+*.log
+*.mp4
+*.zip
+*.rar
+*.dll
