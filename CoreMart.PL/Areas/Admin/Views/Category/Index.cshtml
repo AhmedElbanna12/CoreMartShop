@@ -1,40 +1,61 @@
-﻿
 @model IEnumerable<Category>
 
 @{
     ViewData["Title"] = "Category Management";
+    ViewBag.PageTitle = "Categories Management";
 }
 
-<h2>Category Management</h2>
+<div class="cm-card p-4">
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+        <div>
+            <h2 class="h4 fw-bold mb-1">Categories</h2>
+            <p class="text-muted mb-0">Organize products into logical categories</p>
+        </div>
+        <a asp-action="Create" class="btn btn-cm-primary">
+            <i class="bi bi-plus-lg me-1"></i> Add New Category
+        </a>
+    </div>
 
-<a asp-action="Create" class="btn btn-primary mb-3">Create New Category</a>
-
-<table class="table table-bordered table-striped">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Description</th>
-            <th>Image</th>
-            <th>Actions</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var product in Model)
-        {
+    <div class="cm-table-responsive">
+        <table class="cm-table align-middle">
+            <thead>
                 <tr>
-                    <td>@product.Name</td>
-                    <td>@product.Description</td>
-                    <td>
-                    @if (!string.IsNullOrEmpty(product.ImageURL))
-                    {
-                                <img src="~/@product.ImageURL" alt="Product Image" width="80" height="80" />
-                    }
-                    </td>
-                    <td>
-                        <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning btn-sm">Edit</a>
-                        <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm">Delete</a>
-                    </td>
+                    <th>Image</th>
+                    <th>Category Name</th>
+                    <th>Description</th>
+                    <th class="text-end">Actions</th>
                 </tr>
-        }
-    </tbody>
-</table>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
+                {
+                    <tr><td colspan="4" class="text-center py-4 text-muted">No categories found.</td></tr>
+                }
+                else
+                {
+                    @foreach (var category in Model)
+                    {
+                        <tr>
+                            <td style="width: 70px;">
+                                @if (!string.IsNullOrEmpty(category.ImageURL))
+                                {
+                                    <img src="~/@category.ImageURL" alt="@category.Name" class="rounded border" width="55" height="55" style="object-fit: cover;" />
+                                }
+                                else
+                                {
+                                    <div class="bg-light rounded border d-flex align-items-center justify-content-center text-muted" style="width: 55px; height: 55px;"><i class="bi bi-image"></i></div>
+                                }
+                            </td>
+                            <td class="fw-bold text-dark">@category.Name</td>
+                            <td class="text-muted small text-truncate" style="max-width: 280px;">@category.Description</td>
+                            <td class="text-end">
+                                <a asp-action="Edit" asp-route-id="@category.Id" class="btn btn-sm btn-cm-outline py-1 px-2 me-1"><i class="bi bi-pencil me-1"></i>Edit</a>
+                                <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-sm btn-cm-danger py-1 px-2"><i class="bi bi-trash me-1"></i>Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

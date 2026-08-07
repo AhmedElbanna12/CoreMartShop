@@ -1,32 +1,43 @@
-﻿@model Brand
+@model Brand
 
 @{
     ViewData["Title"] = "Create Brand";
+    ViewBag.PageTitle = "Create Brand";
 }
 
-<h2>Create Brand</h2>
-
-<form asp-controller="Brand" asp-action="Create" method="post" enctype="multipart/form-data">
-    <div class="form-group">
-        <label asp-for="Name"></label>
-        <input asp-for="Name" class="form-control" />
-        <span asp-validation-for="Name" class="text-danger"></span>
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="cm-card p-4 p-md-5">
+            <div class="d-flex justify-content-between align-items-center mb-4 pb-3 border-bottom">
+                <h2 class="h4 fw-bold mb-0">Add New Brand</h2>
+                <a asp-action="Index" class="btn btn-cm-outline"><i class="bi bi-arrow-left me-1"></i> Back</a>
+            </div>
+            <form asp-controller="Brand" asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="row g-4">
+                    <div class="col-md-6">
+                        <label asp-for="Name" class="cm-form-label">Brand Name</label>
+                        <input asp-for="Name" class="form-control" placeholder="e.g. Nike" />
+                        <span asp-validation-for="Name" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="Description" class="cm-form-label">Description</label>
+                        <input asp-for="Description" class="form-control" placeholder="Short description" />
+                        <span asp-validation-for="Description" class="text-danger small"></span>
+                    </div>
+                    <div class="col-12">
+                        <label asp-for="ImageURL" class="cm-form-label">Brand Logo</label>
+                        <input type="file" name="file" class="form-control" accept="image/*" />
+                        <span asp-validation-for="ImageURL" class="text-danger small"></span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-end gap-3 mt-4 pt-3 border-top">
+                    <a asp-action="Index" class="btn btn-cm-outline">Cancel</a>
+                    <button type="submit" class="btn btn-cm-primary"><i class="bi bi-check-lg me-1"></i> Create Brand</button>
+                </div>
+            </form>
+        </div>
     </div>
-
-    <div class="form-group">
-        <label asp-for="Description"></label>
-        <input asp-for="Description" class="form-control"></input>
-        <span asp-validation-for="Description" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="ImageURL">Product Image</label>
-        <input type="file" name="file" class="form-control" />
-        <span asp-validation-for="ImageURL" class="text-danger"></span>
-    </div>
-
-    <button type="submit" class="btn btn-primary">Create</button>
-</form>
+</div>
 
 @section Script {
     <partial name="_ValidationScriptsPartial" />

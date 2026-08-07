@@ -1,41 +1,102 @@
-﻿@model IEnumerable<Product>
+@model IEnumerable<Product>
 
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<!-- Section-->
-<section class="py-5">
-    <div class="container px-4 px-lg-5 mt-5">
-        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+<!-- Modern Hero Banner -->
+<section class="cm-hero">
+    <div class="container px-4 px-lg-5">
+        <div class="row align-items-center min-vh-50">
+            <div class="col-lg-7 text-center text-lg-start">
+                <h1 class="display-4 fw-bolder text-white mb-3">
+                    Welcome to <span class="text-primary">CoreMart</span> Shop
+                </h1>
+                <p class="lead text-white-50 mb-4 fs-5">
+                    Discover premium products at unbeatable prices. Your one-stop destination for quality shopping.
+                </p>
+                <a href="#products" class="btn btn-cm-primary btn-lg px-5 py-3 me-2">
+                    <i class="bi bi-bag-check me-2"></i> Shop Now
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
 
-            @foreach (var item in Model)
-            {
-                <div class="card h-100">
-                    <!-- Sale badge-->
-                    <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
-                    <!-- Product image-->
-                    <a href="/Customer/Home/Details/@item.Id">
-                        <img class="card-img-top" src="@Url.Content(item.ImageURL)" alt="..." width="450" height="300" />
-                    </a>
-                    <!-- Product details-->
-                    <div class="card-body p-4">
-                        <div class="text-center">
-                            <!-- Product name-->
-                            <h5 class="fw-bolder">@item.Name</h5>
-                            <!-- Product price-->
-                            @item.Price
+<!-- Demo Admin Card -->
+@if (!User.Identity.IsAuthenticated || !User.IsInRole("Admin"))
+{
+    <section class="py-4 bg-light">
+        <div class="container px-4 px-lg-5">
+            <div class="cm-card p-4 border-start border-primary border-4">
+                <div class="row align-items-center g-3">
+                    <div class="col-lg-8">
+                        <div class="d-flex align-items-center gap-3 mb-2">
+                            <div class="bg-primary-subtle text-primary rounded-circle d-flex align-items-center justify-content-center" style="width: 48px; height: 48px;">
+                                <i class="bi bi-shield-lock-fill fs-4"></i>
+                            </div>
+                            <div>
+                                <h5 class="fw-bold mb-0">Try the Admin Dashboard</h5>
+                                <p class="text-muted mb-0 small">Explore the full admin panel with the demo account below</p>
+                            </div>
                         </div>
                     </div>
-                    <!-- Product actions-->
-                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                        <div class="text-center">
-                            <a class="btn btn-outline-dark mt-auto" href="/Customer/Home/Details/@item.Id">View Details</a>
+                    <div class="col-lg-4">
+                        <div class="bg-light rounded-3 p-3 border">
+                            <div class="d-flex align-items-center gap-2 mb-1">
+                                <i class="bi bi-envelope text-muted"></i>
+                                <code class="text-dark fw-bold user-select-all">admin@gmail.com</code>
+                            </div>
+                            <div class="d-flex align-items-center gap-2 mb-2">
+                                <i class="bi bi-key text-muted"></i>
+                                <code class="text-dark fw-bold user-select-all">Admin@123</code>
+                            </div>
+                            <a href="/Identity/Account/Login" class="btn btn-cm-primary btn-sm w-100">
+                                <i class="bi bi-box-arrow-in-right me-1"></i> Login as Admin
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+<!-- Product Grid -->
+<section class="py-5" id="products">
+    <div class="container px-4 px-lg-5">
+        <div class="text-center mb-5">
+            <h2 class="h2 fw-bolder">Featured Products</h2>
+            <p class="text-muted">Browse our curated collection of premium products</p>
+        </div>
+        <div class="row g-4 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4">
+            @foreach (var item in Model)
+            {
+                <div class="col">
+                    <div class="cm-product-card h-100">
+                        <div class="cm-product-badge">New</div>
+                        <a href="/Customer/Home/Details/@item.Id" class="text-decoration-none">
+                            <div class="cm-product-img-wrap">
+                                <img src="@Url.Content(item.ImageURL)" alt="@item.Name" class="cm-product-img" />
+                            </div>
+                        </a>
+                        <div class="p-3 text-center">
+                            <h6 class="fw-bold text-dark mb-1 text-truncate">@item.Name</h6>
+                            <div class="cm-product-rating mb-2">
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                            </div>
+                            <div class="fw-bold text-primary fs-5 mb-2">@item.Price.ToString("C")</div>
+                            <a href="/Customer/Home/Details/@item.Id" class="btn btn-cm-outline btn-sm w-100">
+                                <i class="bi bi-eye me-1"></i> View Details
+                            </a>
                         </div>
                     </div>
                 </div>
             }
-
         </div>
     </div>
 </section>

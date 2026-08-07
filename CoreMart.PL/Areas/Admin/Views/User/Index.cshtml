@@ -1,49 +1,82 @@
-﻿@model IEnumerable<ApplicationUser>
-
-
+@model IEnumerable<ApplicationUser>
 
 @{
     ViewData["Title"] = "Users Management";
+    ViewBag.PageTitle = "Users Management";
 }
 
-<h2>User Management</h2>
+<div class="cm-card p-4">
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+        <div>
+            <h2 class="h4 fw-bold mb-1">Users</h2>
+            <p class="text-muted mb-0">Manage registered users and account access</p>
+        </div>
+        <a href="/Identity/Account/Register" class="btn btn-cm-primary">
+            <i class="bi bi-person-plus me-1"></i> Create New User
+        </a>
+    </div>
 
-<a  class="btn btn-primary mb-3"  href="/Identity/Account/Register">Create New User</a>
-
-<table class="table table-bordered table-striped">
-    <thead>
-        <tr>
-            <th>Email</th>
-            <th>Actions</th>
-        </tr>
-    </thead>
-
-    @foreach (var item in Model)
-    {
-        <tr>
-            <td>@item.Email</td>
-            <td>
-
-                @if(item.LockoutEnd == null | item.LockoutEnd < DateTime.Now)
+    <div class="cm-table-responsive">
+        <table class="cm-table align-middle">
+            <thead>
+                <tr>
+                    <th>User</th>
+                    <th>Status</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
                 {
-                    <a class="btn btn-success" asp-action="LockUnlock" asp-route-id="@item.Id">
-
-                        <i class="fas fa-lock-open"></i>
-
-                    </a>
+                    <tr><td colspan="3" class="text-center py-4 text-muted">No users found.</td></tr>
                 }
                 else
                 {
-                    <a class="btn btn-danger" asp-action="LockUnlock" asp-route-id="@item.Id">
-                        >
-
-                        <i class="fas fa-lock"></i>
-
-                    </a>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <div class="d-flex align-items-center gap-3">
+                                    <div class="bg-primary-subtle text-primary rounded-circle d-flex align-items-center justify-content-center fw-bold" style="width: 40px; height: 40px;">
+                                        @(item.Email?.Substring(0, 1).ToUpper() ?? "?")
+                                    </div>
+                                    <div>
+                                        <div class="fw-bold text-dark">@(item.FullName ?? item.Email)</div>
+                                        <small class="text-muted">@item.Email</small>
+                                    </div>
+                                </div>
+                            </td>
+                            <td>
+                                @if (item.LockoutEnd == null || item.LockoutEnd < DateTime.Now)
+                                {
+                                    <span class="cm-badge cm-badge-success">Active</span>
+                                }
+                                else
+                                {
+                                    <span class="cm-badge cm-badge-danger">Locked</span>
+                                }
+                            </td>
+                            <td class="text-end">
+                                @if (item.LockoutEnd == null || item.LockoutEnd < DateTime.Now)
+                                {
+                                    <a asp-action="LockUnlock" asp-route-id="@item.Id" class="btn btn-sm btn-cm-outline py-1 px-2 me-1" title="Lock User">
+                                        <i class="bi bi-lock-fill me-1"></i> Lock
+                                    </a>
+                                }
+                                else
+                                {
+                                    <a asp-action="LockUnlock" asp-route-id="@item.Id" class="btn btn-sm btn-cm-primary py-1 px-2 me-1" title="Unlock User">
+                                        <i class="bi bi-unlock-fill me-1"></i> Unlock
+                                    </a>
+                                }
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-cm-danger py-1 px-2">
+                                    <i class="bi bi-trash me-1"></i> Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
                 }
-              
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
-                 </td>
-                </tr>
-        }
-</table>
+            </tbody>
+        </table>
+    </div>
+</div>

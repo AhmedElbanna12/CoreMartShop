@@ -1,261 +1,151 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AdminLTE 3 | Blank Page</title>
+    <title>CoreMart Admin Panel</title>
 
-    <!-- Google Font: Source Sans Pro -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
-    <!-- Font Awesome -->
+    <!-- Google Font & Bootstrap Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=fallback">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css">
     <link rel="stylesheet" href="/plugins/fontawesome-free/css/all.min.css">
-    <!-- Theme style -->
+    <!-- AdminLTE Theme style & CoreMart UI -->
     <link rel="stylesheet" href="/css/adminlte.min.css">
-    <!-- DataTable -->
+    <link rel="stylesheet" href="/css/coremart-ui.css" asp-append-version="true">
+    <!-- DataTables & Toastr -->
     <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.min.css">
-    <!-- Toaster -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 </head>
-<body class="hold-transition sidebar-mini">
-    <!-- Site wrapper -->
+<body class="hold-transition sidebar-mini layout-fixed">
     <div class="wrapper">
-        <!-- Navbar -->
-        <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-            <!-- Left navbar links -->
-            <ul class="navbar-nav">
+        <!-- Main Navbar -->
+        <nav class="main-header navbar navbar-expand navbar-white navbar-light border-bottom shadow-sm">
+            <ul class="navbar-nav align-items-center">
                 <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
                 </li>
                 <li class="nav-item d-none d-sm-inline-block">
+                    <a href="/Customer/Home/Index" class="nav-link text-primary fw-semibold">
+                        <i class="bi bi-shop me-1"></i> View Storefront
+                    </a>
                 </li>
-             
             </ul>
 
-            <!-- Right navbar links -->
-            <ul class="navbar-nav ml-auto">
-                <!-- Navbar Search -->
+            <ul class="navbar-nav ml-auto align-items-center">
                 <li class="nav-item">
-                    </a>
-                    <div class="navbar-search-block">
-                        <form class="form-inline">
-                            <div class="input-group input-group-sm">
-                                <div class="input-group-append">
-                                    <button class="btn btn-navbar" type="submit">
-                                    </button>
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </li>
-
-                <!-- Messages Dropdown Menu -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link" data-toggle="dropdown" href="#">
-                        <i class="far fa-comments"></i>
-                        <span class="badge badge-danger navbar-badge">3</span>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
-                        <a href="#" class="dropdown-item">
-                            <!-- Message Start -->
-                            <div class="media">
-                                <img src="/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 mr-3 img-circle">
-                                <div class="media-body">
-                                    <h3 class="dropdown-item-title">
-                                        Brad Diesel
-                                        <span class="float-right text-sm text-danger"><i class="fas fa-star"></i></span>
-                                    </h3>
-                                    <p class="text-sm">Call me whenever you can...</p>
-                                    <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
-                                </div>
-                            </div>
-                            <!-- Message End -->
-                        </a>
-                        <div class="dropdown-divider"></div>
-                        <a href="#" class="dropdown-item">
-                            
-                            <!-- Message End -->
-                        </a>
-                       
-                            <!-- Message End -->
-                        </a>
-                </li>
-               
-                <li class="nav-item">
-                    <a class="nav-link" data-widget="fullscreen" href="#" role="button">
+                    <a class="nav-link" data-widget="fullscreen" href="#" role="button" title="Toggle Fullscreen">
                         <i class="fas fa-expand-arrows-alt"></i>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#" role="button">
-                        <i class="fas fa-th-large"></i>
+                    <a class="nav-link d-flex align-items-center gap-2" href="/Identity/Account/Manage/Index">
+                        <i class="bi bi-person-circle fs-5 text-primary"></i>
+                        <span class="d-none d-md-inline fw-bold text-dark">Admin</span>
                     </a>
                 </li>
             </ul>
         </nav>
-        <!-- /.navbar -->
+
         <!-- Main Sidebar Container -->
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
-            <!-- Brand Logo -->
-            <a href="../../index3.html" class="brand-link">
-                <span class="brand-text font-weight-light">CoreMart Admin Panel</span>
+            <a href="/Admin/Product/Index" class="brand-link px-3 py-3 border-bottom border-secondary d-flex align-items-center gap-2 text-decoration-none">
+                <i class="bi bi-bag-heart-fill text-primary fs-4"></i>
+                <span class="brand-text fw-bold text-white fs-5">CoreMart Admin</span>
             </a>
 
-            <!-- Sidebar -->
-            <div class="sidebar">
-                <!-- Sidebar user (optional) -->
-                
-
-                <!-- SidebarSearch Form -->
-                <div class="form-inline">
-                    <div class="input-group" data-widget="sidebar-search">
-                        <div class="input-group-append">
-                           
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Sidebar Menu -->
+            <div class="sidebar py-2">
                 <nav class="mt-2">
-                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-                        <!-- Add icons to the links using the .nav-icon class
-                             with font-awesome or any other icon font library -->
-                        
+                    <ul class="nav nav-pills nav-sidebar flex-column gap-1" data-widget="treeview" role="menu" data-accordion="false">
+                        <li class="nav-header text-uppercase text-muted px-3 small fw-bold mb-1">Management</li>
 
                         <li class="nav-item">
-                            <a asp-controller="Brand" asp-action="Index" class="nav-link">
-                                <i class="nav-icon fas fa-tachometer-alt"></i>
-                                <p>
-                                    Brands
-                                </p>
+                            <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="nav-link d-flex align-items-center gap-2 py-2 px-3 rounded">
+                                <i class="nav-icon bi bi-box-seam text-info fs-5"></i>
+                                <p class="m-0">Products</p>
                             </a>
-
-
                         </li>
 
                         <li class="nav-item">
-                            <a asp-controller="Category" asp-action="Index" class="nav-link">
-                                <i class="nav-icon fas fa-tachometer-alt"></i>
-                                <p>
-                                    Categories
-                                </p>
+                            <a asp-area="Admin" asp-controller="Category" asp-action="Index" class="nav-link d-flex align-items-center gap-2 py-2 px-3 rounded">
+                                <i class="nav-icon bi bi-grid text-warning fs-5"></i>
+                                <p class="m-0">Categories</p>
                             </a>
-
-
                         </li>
+
                         <li class="nav-item">
-                            <a asp-controller="Product" asp-action="Index" class="nav-link">
-
-                                <i class="nav-icon fas fa-tachometer-alt"></i>
-                                <p>
-                                    Products
-                                </p>
+                            <a asp-area="Admin" asp-controller="Brand" asp-action="Index" class="nav-link d-flex align-items-center gap-2 py-2 px-3 rounded">
+                                <i class="nav-icon bi bi-tags text-success fs-5"></i>
+                                <p class="m-0">Brands</p>
                             </a>
-
                         </li>
+
                         <li class="nav-item">
-                            <a asp-controller="Order" asp-action="Index" class="nav-link">
-                                <i class="nav-icon fas fa-tachometer-alt"></i>
-                                <p>
-                                    Orders
-                                </p>
+                            <a asp-area="Admin" asp-controller="Order" asp-action="Index" class="nav-link d-flex align-items-center gap-2 py-2 px-3 rounded">
+                                <i class="nav-icon bi bi-cart-check text-primary fs-5"></i>
+                                <p class="m-0">Orders</p>
                             </a>
-
                         </li>
+
                         <li class="nav-item">
-                            <a asp-controller="User" asp-action="Index" class="nav-link">
-
-                                <i class="nav-icon fas fa-tachometer-alt"></i>
-                                <p>
-                                    Users
-                                </p>
+                            <a asp-area="Admin" asp-controller="User" asp-action="Index" class="nav-link d-flex align-items-center gap-2 py-2 px-3 rounded">
+                                <i class="nav-icon bi bi-people text-danger fs-5"></i>
+                                <p class="m-0">Users</p>
                             </a>
-
                         </li>
 
+                        <li class="nav-header text-uppercase text-muted px-3 small fw-bold mt-3 mb-1">Shortcuts</li>
+                        <li class="nav-item">
+                            <a href="/Customer/Home/Index" class="nav-link d-flex align-items-center gap-2 py-2 px-3 rounded text-white-50">
+                                <i class="nav-icon bi bi-arrow-left-circle fs-5"></i>
+                                <p class="m-0">Back to Website</p>
+                            </a>
+                        </li>
                     </ul>
                 </nav>
-                <!-- /.sidebar-menu -->
             </div>
-            <!-- /.sidebar -->
         </aside>
 
-        <!-- Content Wrapper. Contains page content -->
-        <div class="content-wrapper">
-            <!-- Content Header (Page header) -->
-            <section class="content-header">
+        <!-- Content Wrapper -->
+        <div class="content-wrapper bg-light px-3 py-4">
+            <section class="content-header mb-3">
                 <div class="container-fluid">
-                    <div class="row mb-2">
+                    <div class="row align-items-center">
                         <div class="col-sm-6">
-                            <h1>@ViewBag.PageTitle</h1>   <!-- Edited -->
+                            <h1 class="h3 fw-bold text-dark m-0">@(ViewBag.PageTitle ?? "Dashboard")</h1>
                         </div>
-                        <div class="col-sm-6">
-                            <ol class="breadcrumb float-sm-right">
-                                <li class="breadcrumb-item"><a href="#">Home</a></li>
-                                <li class="breadcrumb-item active">Blank Page</li>
+                        <div class="col-sm-6 text-sm-right">
+                            <ol class="breadcrumb float-sm-right bg-transparent p-0 m-0 small">
+                                <li class="breadcrumb-item"><a href="/Admin/Product/Index">Admin</a></li>
+                                <li class="breadcrumb-item active">@(ViewBag.PageTitle ?? "Page")</li>
                             </ol>
                         </div>
                     </div>
-                </div><!-- /.container-fluid -->
-            </section>
-
-            <!-- Main content -->
-            <section class="content">
-
-                <!-- Default box -->
-                <div class="card">
-                    <div class="card-header">
-                        <h3 class="card-title">@ViewBag.CardTitle</h3> <!-- Edited -->
-
-                        <div class="card-tools">
-                            <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
-                                <i class="fas fa-minus"></i>
-                            </button>
-                            <button type="button" class="btn btn-tool" data-card-widget="remove" title="Remove">
-                                <i class="fas fa-times"></i>
-                            </button>
-                        </div>
-                    </div>
-                    <div class="card-body">
-                        @RenderBody()
-                    </div>
-                    <!-- /.card-body -->
-                    <!-- /.card-footer-->
                 </div>
-                <!-- /.card -->
-
             </section>
-            <!-- /.content -->
+
+            <section class="content">
+                <div class="container-fluid">
+                    @RenderBody()
+                </div>
+            </section>
         </div>
-        <!-- /.content-wrapper -->
 
-        <footer class="main-footer">
-            <div class="float-right d-none d-sm-block">
-                <b>Version</b> 3.2.0
+        <footer class="main-footer text-muted small py-3 border-top">
+            <div class="float-right d-none d-sm-inline">
+                <b>CoreMart MVC</b> v1.0
             </div>
-            <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">CoreMart</a>.</strong> All rights reserved.
+            <strong>Copyright &copy; @DateTime.Now.Year CoreMart Admin.</strong> All rights reserved.
         </footer>
-
-        <!-- Control Sidebar -->
-        <aside class="control-sidebar control-sidebar-dark">
-            <!-- Control sidebar content goes here -->
-        </aside>
-        <!-- /.control-sidebar -->
     </div>
-    <!-- ./wrapper -->
-    <!-- jQuery -->
+
+    <!-- Scripts -->
     <script src="/plugins/jquery/jquery.min.js"></script>
-    <!-- Bootstrap 4 -->
     <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <!-- AdminLTE App -->
     <script src="/dist/js/adminlte.min.js"></script>
-    <!-- AdminLTE for demo purposes -->
-    <script src="/dist/js/demo.js"></script>
-    <!-- DataTable -->
     <script src="https://cdn.datatables.net/2.2.2/js/dataTables.min.js"></script>
-    <!-- SweetAlert -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     @await RenderSectionAsync("Script", required: false)
+    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

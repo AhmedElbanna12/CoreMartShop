@@ -1,54 +1,70 @@
-﻿@model Product
+@model Product
 
 @{
     ViewData["Title"] = "Edit Product";
+    ViewBag.PageTitle = "Edit Product";
 }
 
-<h2>Create Product</h2>
-
-<form asp-controller="Product" asp-action="Edit" method="post" enctype="multipart/form-data">
-    <div class="form-group">
-        <label asp-for="Name"></label>
-        <input asp-for="Name" class="form-control" />
-        <span asp-validation-for="Name" class="text-danger"></span>
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="cm-card p-4 p-md-5">
+            <div class="d-flex justify-content-between align-items-center mb-4 pb-3 border-bottom">
+                <h2 class="h4 fw-bold mb-0">Edit Product</h2>
+                <a asp-action="Index" class="btn btn-cm-outline"><i class="bi bi-arrow-left me-1"></i> Back</a>
+            </div>
+            <form asp-controller="Product" asp-action="Edit" method="post" enctype="multipart/form-data">
+                <input asp-for="Id" type="hidden" />
+                <input asp-for="ImageURL" type="hidden" />
+                <div class="row g-4">
+                    <div class="col-md-6">
+                        <label asp-for="Name" class="cm-form-label">Product Name</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="Price" class="cm-form-label">Price ($)</label>
+                        <input asp-for="Price" class="form-control" type="number" step="0.01" />
+                        <span asp-validation-for="Price" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="CategoryId" class="cm-form-label">Category</label>
+                        <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+                            <option disabled selected value="">-- Select Category --</option>
+                        </select>
+                        <span asp-validation-for="CategoryId" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="BrandId" class="cm-form-label">Brand</label>
+                        <select asp-for="BrandId" asp-items="ViewBag.Brands" class="form-select">
+                            <option disabled selected value="">-- Select Brand --</option>
+                        </select>
+                        <span asp-validation-for="BrandId" class="text-danger small"></span>
+                    </div>
+                    <div class="col-12">
+                        <label asp-for="Description" class="cm-form-label">Description</label>
+                        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Description" class="text-danger small"></span>
+                    </div>
+                    <div class="col-12">
+                        <label class="cm-form-label">Current Image</label>
+                        @if (!string.IsNullOrEmpty(Model.ImageURL))
+                        {
+                            <div class="mb-3 p-3 bg-light rounded border text-center">
+                                <img src="~/@Model.ImageURL" alt="Current" class="rounded" style="max-height: 160px; object-fit: contain;" />
+                            </div>
+                        }
+                        <label class="cm-form-label mt-2">Replace Image (optional)</label>
+                        <input type="file" name="file" class="form-control" accept="image/*" />
+                    </div>
+                </div>
+                <div class="d-flex justify-content-end gap-3 mt-4 pt-3 border-top">
+                    <a asp-action="Index" class="btn btn-cm-outline">Cancel</a>
+                    <button type="submit" class="btn btn-cm-primary"><i class="bi bi-check-lg me-1"></i> Update Product</button>
+                </div>
+            </form>
+        </div>
     </div>
-
-    <div class="form-group">
-        <label asp-for="Description"></label>
-        <input asp-for="Description" class="form-control" />
-        <span asp-validation-for="Description" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="Price"></label>
-        <input asp-for="Price" class="form-control" />
-        <span asp-validation-for="Price" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="CategoryId"></label>
-        <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
-            <option disabled selected value="">-- Select Category --</option>
-        </select>
-        <span asp-validation-for="CategoryId" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="BrandId"></label>
-        <select asp-for="BrandId" asp-items="ViewBag.Brands" class="form-control">
-            <option disabled selected value="">-- Select Brand --</option>
-        </select>
-        <span asp-validation-for="BrandId" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="ImageURL">Product Image</label>
-        <input type="file" name="file" class="form-control" />
-        <span asp-validation-for="ImageURL" class="text-danger"></span>
-    </div>
-
-    <button type="submit" class="btn btn-primary">Edit</button>
-</form>
+</div>
 
 @section Script {
     <partial name="_ValidationScriptsPartial" />

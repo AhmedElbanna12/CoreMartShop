@@ -1,45 +1,62 @@
-﻿@model Product
+@model Product
 
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = Model.Name;
 }
 
+<div class="container px-4 px-lg-5 my-5">
+    <a href="@Url.Action("Index", "Home", new { area = "Customer" })" class="btn btn-cm-outline mb-4">
+        <i class="bi bi-arrow-left me-1"></i> Back to Products
+    </a>
 
-<form asp-area="Customer" asp-controller="Cart" asp-action="AddToCart" method="post">
+    <form asp-area="Customer" asp-controller="Cart" asp-action="AddToCart" method="post">
+        <input type="hidden" name="productId" value="@Model.Id" />
 
-
-    <section class="product-section scroll-reveal">
-        <div class="container ">
-            <section class="py-5">
-                <input type="hidden" name="productId" value="@Model.Id" />
-                <div class="container px-4 px-lg-5 my-5">
-                    <div class="row gx-4 gx-lg-5 align-items-center">
-                        <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src="~/@Model.ImageURL" alt="..." /></div>
-                        <div class="col-md-6">
-                            <div class="small mb-1"></div>
-                            <h1 class="display-5 fw-bolder">@Model.Name</h1>
-                            <div class="fs-5 mb-5">
-                                <span class="text-decoration-line-through">$45.00</span>
-                                <span>@Model.Price</span>
-                            </div>
-                            <p class="lead">@Model.Description</p>
-                            <div class="d-flex">
-                                <input type="number" name="quantity" id="quantity" value="1" min="1" />
-                                <button class="btn btn-outline-dark flex-shrink-0" type="submit">
-                                    <i class="bi-cart-fill me-1"></i>
-                                    Add to cart
-                                </button>
-                            </div>
-                        </div>
+        <div class="cm-card p-4 p-md-5">
+            <div class="row gx-4 gx-lg-5 align-items-center">
+                <div class="col-md-6 mb-4 mb-md-0">
+                    <div class="position-relative overflow-hidden rounded-3 border bg-light shadow-sm text-center p-3">
+                        <img class="img-fluid rounded-3" src="~/@Model.ImageURL" alt="@Model.Name" style="max-height: 420px; object-fit: contain;" />
                     </div>
                 </div>
-            </section>
+                <div class="col-md-6">
+                    <span class="badge bg-primary-subtle text-primary fw-semibold px-3 py-2 rounded-pill mb-2">In Stock</span>
+                    <h1 class="display-6 fw-bolder mb-3">@Model.Name</h1>
+                    
+                    <div class="cm-product-rating mb-3">
+                        <i class="bi bi-star-fill"></i>
+                        <i class="bi bi-star-fill"></i>
+                        <i class="bi bi-star-fill"></i>
+                        <i class="bi bi-star-fill"></i>
+                        <i class="bi bi-star-fill"></i>
+                        <span class="text-muted small ms-1">(5.0)</span>
+                    </div>
 
+                    <div class="fs-4 mb-4">
+                        <span class="fw-bold text-primary display-6 me-2">@Model.Price.ToString("C")</span>
+                    </div>
 
+                    <p class="lead text-secondary mb-4 fs-6">@Model.Description</p>
 
+                    <div class="d-flex align-items-center gap-3">
+                        <div style="width: 110px;">
+                            <label for="quantity" class="cm-demo-label mb-1">Quantity</label>
+                            <input type="number" name="quantity" id="quantity" class="form-control text-center fw-bold" value="1" min="1" />
+                        </div>
+                        <div class="flex-grow-1 align-self-end">
+                            <button class="btn btn-cm-primary btn-lg w-100 py-3" type="submit">
+                                <i class="bi bi-cart-plus-fill me-2"></i> Add to Cart
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="mt-4 pt-4 border-top d-flex flex-wrap gap-4 text-muted small">
+                        <div><i class="bi bi-truck me-1 text-primary"></i> Fast Shipping</div>
+                        <div><i class="bi bi-shield-check me-1 text-primary"></i> 100% Guaranteed</div>
+                        <div><i class="bi bi-arrow-counterclockwise me-1 text-primary"></i> Easy Returns</div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
-
-
-
-</form>
+    </form>
+</div>

@@ -1,4 +1,3 @@
-﻿
 var Dtb;
 
 $(document).ready(function () {
@@ -13,57 +12,47 @@ function LoadData() {
             "datatype": "json"
         },
         "columns": [
-            { "data": "id" },
+            { "data": "id", "width": "6%" },
             { "data": "fullName" },
             { "data": "phoneNumber" },
             { "data": "applicationUser.email" },
-            { "data": "orderStatus" },
-            { "data": "totalAmount" },
-
-
+            {
+                "data": "orderStatus",
+                "render": function (data) {
+                    var badgeClass = "cm-badge-secondary";
+                    switch (data) {
+                        case "Approved": badgeClass = "cm-badge-info"; break;
+                        case "Processing": badgeClass = "cm-badge-warning"; break;
+                        case "Shipped": badgeClass = "cm-badge-primary"; break;
+                        case "Cancelled": badgeClass = "cm-badge-danger"; break;
+                        case "Refund": badgeClass = "cm-badge-secondary"; break;
+                        default: badgeClass = "cm-badge-dark"; break;
+                    }
+                    return `<span class="cm-badge ${badgeClass}">${data}</span>`;
+                }
+            },
+            {
+                "data": "totalAmount",
+                "render": function (data) {
+                    return `<span class="fw-bold text-primary">$${parseFloat(data).toFixed(2)}</span>`;
+                }
+            },
             {
                 "data": "id",
                 "render": function (data) {
-                    return `
-                                     <a href="/Admin/Order/Details?orderid=${data}" class="btn btn-warning">Details</a>                            `
+                    return `<div class="text-end">
+                        <a href="/Admin/Order/Details?orderid=${data}" class="btn btn-sm btn-cm-outline py-1 px-2">
+                            <i class="bi bi-eye me-1"></i>Details
+                        </a>
+                    </div>`;
                 }
             }
-
-        ]
+        ],
+        "language": {
+            "emptyTable": "No orders found",
+            "search": "",
+            "searchPlaceholder": "Search orders..."
+        },
+        "dom": '<"d-flex flex-wrap justify-content-between align-items-center mb-3"lf>rt<"d-flex flex-wrap justify-content-between align-items-center mt-3"ip>'
     });
 }
-
-
-
-//function DeleteItem(url) {
-//    Swal.fire({
-//        title: "Are you sure?",
-//        text: "You won't be able to revert this!",
-//        icon: "warning",
-//        showCancelButton: true,
-//        confirmButtonColor: "#3085d6",
-//        cancelButtonColor: "#d33",
-//        confirmButtonText: "Yes, delete it!"
-//    }).then((result) => {
-//        if (result.isConfirmed) {
-//            $.ajax({
-//                url: url,
-//                type: "Delete",
-//                success: function (data) {
-//                    if (data.success) {
-//                        Dtb.ajax.reload();
-//                        toastr.success(data.message);
-//                    }
-//                    else {
-//                        toastr.error(data.message);
-//                    }
-//                }
-//            });
-//            Swal.fire({
-//                title: "Deleted!",
-//                text: "Your file has been deleted.",
-//                icon: "success"
-//            });
-//        }
-//    });
-//}
